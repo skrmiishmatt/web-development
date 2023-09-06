@@ -1,50 +1,33 @@
-﻿var css = document.querySelector("h3");
-var color1 = document.querySelector(".color1");
-var color2 = document.querySelector(".color2");
-var body = document.getElementById("gradient");
-var cssText = document.getElementById("csstext")
-var clipboardButton = document.getElementById("clipboardbutton")
+﻿let css = document.querySelector("h3");
+let color1 = document.getElementById('style1');
+let color2 = document.getElementById('style2');
+let body = document.getElementById("gradient");
+let cssText = document.getElementById("csstext")
 
-function setRandomColors() {
-    color1.value = "#" + Math.floor(Math.random()*16777215).toString(16);
-    color2.value = "#" + Math.floor(Math.random()*16777215).toString(16);
+const hex = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, "A", "B", "C", "D", "E", "F"];
+const randomNumber = () => Math.floor(Math.random() * hex.length);
 
+const generateHex = () => {
+    let hexColor = `#`;
+    for (let i = 0; i < 6; i++) {
+        let index = randomNumber();
+        hexColor = hexColor + hex[index];
+    }
+    return hexColor
+}
+
+const randomColors = () => {
+    color1.value = generateHex();
+    color2.value = generateHex();
     body.style.background = "linear-gradient(to right, " + color1.value + ", " + color2.value + ")";
     css.innerText = body.style.background;
 }
 
-function setGradient() {
+const setGradientText = () => {
     body.style.background = "linear-gradient(to right, " + color1.value + ", " + color2.value + ")";
     css.innerText = body.style.background;
 }
 
-css.addEventListener('click', function () {
-    text = cssText.innerHTML;
-    try {
-        navigator.clipboard.writeText(text);
-        console.log('copied to clipboard');
-    }
-    catch {
-        console.log('failed');
-    }
-})
-
-clipboardButton.addEventListener('click', function () {
-    text = cssText.innerHTML;
-    try {
-        navigator.clipboard.writeText(text);
-        console.log('copied to clipboard');
-        
-        console.log(Math.floor(Math.random()*16777215).toString(16));
-    }
-    catch {
-        console.log('failed');
-    }
-})
-
-
-// Math.floor(Math.random()*16777215).toString(16);
-
-setRandomColors();
-color1.addEventListener('input', setGradient);
-color2.addEventListener('input', setGradient);
+randomColors();
+color1.addEventListener('input', setGradientText);
+color2.addEventListener('input', setGradientText);

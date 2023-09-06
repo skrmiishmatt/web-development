@@ -15,13 +15,13 @@ html span {
     z-index: -1;
 }
 
-.container {
-    border: 1px solid currentColor;
-    margin: auto;
-    position: relative;
+main {
+    min-height: 100vh;
     display: grid;
-    width: 650px;
-    border-radius: 5px;
+    place-items: center;
+}
+.container {
+    text-align: center;
 }
 
 .center {
@@ -31,15 +31,17 @@ html span {
     padding: 10px;
 }
 
+.colorpickers {
+    margin: auto;
+    position: relative;
+}
 
 body {
-    padding: 40px;
     font-family: 'Merriweather', serif;
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .25em;
-    top: 15%;
 	background: linear-gradient(to right, red , yellow); /* Standard syntax */
 }
 
@@ -49,6 +51,7 @@ h1 {
     text-transform: uppercase;
     letter-spacing: .5em;
     width: 100%;
+    font-size: 1.2rem;
 }
 
 
@@ -57,6 +60,7 @@ h3 {
     text-align: center;
     text-transform: none;
     letter-spacing: 0.01em;
+    font-size: 0.8rem;
 }
 
 a {
@@ -87,6 +91,17 @@ a {
     color: rgba(0,0,0,.5);
 }
 
+.box {
+    background-color: rgba(255,255,255,.8);
+    border: 1px solid currentColor;
+    margin: auto;
+    position: relative;
+    display: grid;
+    width: 32rem;
+    border-radius: 5px;
+    padding: 1.5rem;
+}
+
 .btn-0:before {
     content: "";
     position: absolute;
@@ -102,4 +117,24 @@ a {
 }
 .btn-0:hover:before {
     transform: translateX(0);
+}
+
+/*------ Style 1 ------*/
+.colorpicker {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 12rem;
+    height: 3rem;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.colorpicker::-webkit-color-swatch {
+    border-radius: 5px;
+    border: 1px solid GrayText;
+}
+.colorpicker::-moz-color-swatch {
+    border-radius: 5px;
+    border: none;
 }
