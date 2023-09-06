@@ -54,3 +54,8 @@ console.log(`1. Get the total mass of all characters: ${totalMass}`);
 console.log(`2. Get the total height of all characters: ${totalHeight}`);
 console.log(`3. Get the total number of characters in all the character names: ${totalCharInNames}`)
 console.log(eyeColor);
+
+
+const array = [1, 2, 3, 4, 8, 10, 12];
+const sumNumbers = array.reduce((acc, number) => acc + number, 0);
+console.log(sumNumbers);

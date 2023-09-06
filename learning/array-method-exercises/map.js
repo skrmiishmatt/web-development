@@ -45,3 +45,8 @@ console.log(`2. Get an array of all heights: ${heights}`);
 console.log(`3. Get an array of objects with just name and height properties:`);
 console.log(nameAndHeight)
 console.log(`4. Get an array of all first names: ${firstName}`);
+
+
+const array = [1, 2, 3, 4, 8, 10, 12];
+const arrayTimesTwo = array.map(number => number * 2);
+console.log(arrayTimesTwo);
