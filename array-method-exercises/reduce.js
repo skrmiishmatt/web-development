@@ -52,5 +52,5 @@ const eyeColor = characters.reduce((acc, character) => {
 
 console.log(`1. Get the total mass of all characters: ${totalMass}`);
 console.log(`2. Get the total height of all characters: ${totalHeight}`);
-console.log(eyeColor);
 console.log(`3. Get the total number of characters in all the character names: ${totalCharInNames}`)
+console.log(eyeColor);
