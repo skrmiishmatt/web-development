@@ -5,73 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7100c18a-9fd7-415c-95ea-6e00f9e186be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../gradient-background-generator/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../gradient-background-generator/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gradient-background-generator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../gradient-background-generator/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gradient-background-generator/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../gradient-background-generator/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/advanced-functions/.idea/.idea.advanced-functions/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/advanced-functions/.idea/.idea.advanced-functions/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/advanced-functions/.idea/.idea.advanced-functions/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/advanced-functions/.idea/.idea.advanced-functions/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/advanced-functions/advanced-functions.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/advanced-functions/compose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/advanced-functions/currying.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/array-method-exercises/.idea/.idea.array-method-exercises/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/array-method-exercises/.idea/.idea.array-method-exercises/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/array-method-exercises/.idea/.idea.array-method-exercises/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/array-method-exercises/.idea/.idea.array-method-exercises/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/array-method-exercises/array-method-exercises.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/array-method-exercises/every.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/array-method-exercises/exercise.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/array-method-exercises/filter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/array-method-exercises/map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/array-method-exercises/reduce.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/array-method-exercises/some.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/array-method-exercises/sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/cssgrid-csslayout/.idea/.idea.cssgrid-csslayout/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/cssgrid-csslayout/.idea/.idea.cssgrid-csslayout/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/cssgrid-csslayout/.idea/.idea.cssgrid-csslayout/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/cssgrid-csslayout/.idea/.idea.cssgrid-csslayout/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/cssgrid-csslayout/cssgrid-csslayout.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/cssgrid-csslayout/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/cssgrid-csslayout/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-events-exercises/.idea/.idea.dom-events-exercises/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-events-exercises/.idea/.idea.dom-events-exercises/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-events-exercises/.idea/.idea.dom-events-exercises/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-events-exercises/.idea/.idea.dom-events-exercises/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-events-exercises/dom-events-exercises.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-events-exercises/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-events-exercises/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-events-exercises/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-manipulation/.idea/.idea.dom-manipulation/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-manipulation/.idea/.idea.dom-manipulation/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-manipulation/.idea/.idea.dom-manipulation/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-manipulation/.idea/.idea.dom-manipulation/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-manipulation/dom-manipulation.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-manipulation/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/dom-manipulation/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/.idea/.idea.exercise-csslayout/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/.idea/.idea.exercise-csslayout/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/.idea/.idea.exercise-csslayout/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/.idea/.idea.exercise-csslayout/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/exercise-csslayout.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/img/data_storage_2_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/img/desktop_analytics_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/img/files_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/img/monitor_coding_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/img/monitor_settings_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/img/server_2_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/img/server_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/img/server_safe_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/img/undraw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/exercise-csslayout/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/javascript-learning/.idea/.idea.javascript-learning/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/javascript-learning/.idea/.idea.javascript-learning/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/javascript-learning/.idea/.idea.javascript-learning/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/javascript-learning/.idea/.idea.javascript-learning/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/javascript-learning/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/javascript-learning/javascript-learning.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning/javascript-learning/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning-and-exercises/advanced-functions/.idea/.idea.advanced-functions/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learning-and-exercises/advanced-functions/.idea/.idea.advanced-functions/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning-and-exercises/advanced-functions/.idea/.idea.advanced-functions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learning-and-exercises/advanced-functions/.idea/.idea.advanced-functions/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +30,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Matthew/Documents/Github/web-development/color-flipper",
+    "last_opened_file_path": "/Users/user/Documents/github/skrmiish/web-development/color-flipper",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,18 +39,22 @@
   },
   "keyToStringList": {
     "rider.external.source.directories": [
-      "C:\\Users\\Matthew\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Matthew\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
-      "C:\\Users\\Matthew\\AppData\\Local\\Symbols\\src"
+      "/Users/user/Library/Application Support/JetBrains/Rider2023.2/resharper-host/DecompilerCache",
+      "/Users/user/Library/Application Support/JetBrains/Rider2023.2/resharper-host/SourcesCache",
+      "/Users/user/.local/share/Symbols/src"
     ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.hex.html">
+    <configuration name="hex.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/color-flipper/color-flipper/hex.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/color-flipper/color-flipper/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.hex.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -130,6 +69,7 @@
       <updated>1694024629154</updated>
       <workItem from="1694024630339" duration="114000" />
       <workItem from="1694025988951" duration="442000" />
+      <workItem from="1694080557458" duration="58000" />
     </task>
     <servers />
   </component>
